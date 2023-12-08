@@ -1,7 +1,8 @@
 const express = require("express");
 const fs = require("fs");
 const path = require("path");
-const employees = require("./employees.json");
+
+// const employees = require("./employees.json");
 
 // import fs, { read } from "fs";
 // import express from "express";
